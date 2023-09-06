@@ -1,4 +1,19 @@
 theme: minima
 title: Day by Day Shae
-author: Shae-Linn Davies
-description: Welcome to my Europe trip blog :)
+description: Welcome, thank you for being here :)
+
+# Author Settings
+author: Shae-Linn Davies 
+#author-img: x.jpg
+about-author: This is my Europe trip blog! Follow along as I post about visiting Paris, London, Brussels, Vienna, Prague, Barcelona and more.
+
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
