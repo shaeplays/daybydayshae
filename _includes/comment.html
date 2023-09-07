@@ -1,4 +1,4 @@
-<!-- From @avglinux -->
+<!-- From https://github.com/avglinux/alu-test-website/blob/master/_includes/comment.html -->
 
 {%- capture article_class %}js-comment comment{% if include.name == site.author.name %} admin{% endif %}{% if include.is_reply %} child{% endif %}{% endcapture %}
 {% assign comment_id = include.uid | prepend: 'comment-' %}
