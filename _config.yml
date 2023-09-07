@@ -2,6 +2,7 @@ title: Day by Day Shae
 description: Welcome, thank you for being here :)
 
 permalink: /:title/
+baseurl: ''
 url: "https://daybydayshae.ca"
 github_username: shaeplays
 
