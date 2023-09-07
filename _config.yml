@@ -1,13 +1,18 @@
-theme: minima
+title: Day by Day Shae
 description: Welcome, thank you for being here :)
+
+permalink: /:title/
+url: "https://daybydayshae.ca"
+github_username: shaeplays
 
 # Author Settings
 author: Shae-Linn Davies 
 #author-img: x.jpg
-about-author: This is my Europe trip blog! Follow along as I post about visiting Paris, London, Brussels, Vienna, Prague, Barcelona and more.
+#about-author: This is my Europe trip blog! Follow along as I post about visiting Paris, London, Brussels, Vienna, Prague, Barcelona and more.
 
 
 # Build Settings
+theme: minima
 markdown: kramdown
 plugins:
   - jekyll-sitemap
