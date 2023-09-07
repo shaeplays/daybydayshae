@@ -21,7 +21,7 @@ plugins:
   - jemoji
 
 # staticman comments configuration
-staticman_url: https://bobert-9ef0825f876a.herokuapp.com/v2/entry/shaeplays/daybydayshae/master/comments
+staticman_url: https://bobert-9ef0825f876a.herokuapp.com/v2/entry/shaeplays/daybydayshae/main/comments
 
 paginate: 8
 paginate_path: "/page/:num"
